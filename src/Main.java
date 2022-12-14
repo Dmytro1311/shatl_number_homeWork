@@ -6,7 +6,7 @@ public class Main {
             if ((s.contains("4") || s.contains("9"))) continue;
             System.out.println(value);
             count++;
-            System.out.println("Номер шатла: " + count);
+            System.out.println("Номер шатла:  " + count);
         }
     }
 }
